@@ -1,0 +1,69 @@
+NodeID1	NodeID2	CE
+FE	FR	0.97507
+BM (g)	DTDVG	0.96833
+TG serique	Chol serique	0.96527
+DTSVG (mm)	DTDVG	0.96083
+Urine osmolality (mosmoles)	Cl_U (mmol/L)	0.95323
+HOMA-IR	Insulin	0.94903
+mVG (mg)	DTDVG	0.93937
+BM (g)	Aortic diameter	0.93883
+BM (g)	DTSVG (mm)	0.93647
+Cl_U (mmol/L)	Na_U (mmol/L)	0.9329
+DTSVG (mm)	FR	-0.92593
+Cl_U (mmol/L)	K_U (mmol/L)	0.92373
+BM (g)	mVG (mg)	0.9236
+DTDVG	Aortic diameter	0.92257
+Urine osmolality (mosmoles)	K_U (mmol/L)	0.92207
+DTSVG (mm)	FE	-0.92187
+K_U (mmol/L)	Na_U (mmol/L)	0.9192
+mVG (mg)	PP (mm)	0.9135
+Urine osmolality (mosmoles)	Na_U (mmol/L)	0.90517
+Creat_Ez serique	DTSVG (mm)	0.9014
+K_U (mmol/L)	HDL serique	-0.8962
+Urine (mL)	Chol serique	0.89587
+Taille tibia (mm)	Sep (mm)	0.89293
+HDL serique	Chol serique	0.89177
+Creat_Ez serique	DTDVG	0.89037
+mVG (mg)	Sep (mm)	0.8872
+Urine (mL)	K_U (mmol/L)	-0.87653
+Taille tibia (mm)	mVG (mg)	0.87507
+Urine (mL)	TG serique	0.87497
+DTSVG (mm)	Aortic diameter	0.87313
+mVG (mg)	Aortic diameter	0.8723
+Ca_U (mmol/L)	Taille tibia (mm)	-0.8698
+BM (g)	PP (mm)	0.86477
+K_U (mmol/L)	BM (g)	-0.86427
+Creat_Ez serique	Aortic diameter	0.8598
+Cl_U (mmol/L)	BM (g)	-0.8569
+Na_U (mmol/L)	BM (g)	-0.85223
+K_U (mmol/L)	Insulin	-0.84607
+BM (g)	Creat_Ez serique	0.84203
+Urine osmolality (mosmoles)	BM (g)	-0.84197
+PP (mm)	DTDVG	0.8402
+PP (mm)	Aortic diameter	0.8363
+K_U (mmol/L)	DTSVG (mm)	-0.83593
+Urine (mL)	HDL serique	0.83457
+Chol serique	FE	-0.83437
+HDL serique	FE	-0.8341
+Cl_U (mmol/L)	HDL serique	-0.83157
+Urine osmolality (mosmoles)	Urine (mL)	-0.82957
+DTDVG	FR	-0.82877
+mVG (mg)	DTSVG (mm)	0.8286
+Cl_U (mmol/L)	DTSVG (mm)	-0.82663
+Taille tibia (mm)	DTDVG	0.82153
+Taille tibia (mm)	TDE	0.8182
+TG serique	FE	-0.81737
+Na_U (mmol/L)	DTSVG (mm)	-0.81713
+Taille tibia (mm)	PP (mm)	0.81563
+Cl_U (mmol/L)	DTDVG	-0.81517
+HDL serique	TG serique	0.81467
+BM (g)	FR	-0.814
+Ca_U (mmol/L)	mVG (mg)	-0.8124
+HDL serique	DTSVG (mm)	0.81223
+Urine (mL)	DTSVG (mm)	0.81217
+HDL serique	FR	-0.80917
+Taille tibia (mm)	Aortic diameter	0.80873
+K_U (mmol/L)	Chol serique	-0.8035
+DTDVG	FE	-0.8032
+Ca_U (mmol/L)	Sep (mm)	-0.80077
+Urine (mL)	FE	-0.8007

@@ -1,0 +1,326 @@
+NodeID1	NodeID2	CE
+FE	FR	0.97507
+A-velocity	FR	0.32487
+A-velocity	FE	0.27773
+TDE	FR	0.2714
+TDE	FE	0.1718
+TDE	A-velocity	0.6127
+Sa lat (cm/s)	FR	0.59933
+Sa lat (cm/s)	FE	0.5328
+Sa lat (cm/s)	A-velocity	0.3291
+Sa lat (cm/s)	TDE	0.4423
+Aortic diameter	FR	0.70243
+Aortic diameter	FE	0.6865
+Aortic diameter	A-velocity	0.78787
+Aortic diameter	TDE	0.60197
+Aortic diameter	Sa lat (cm/s)	0.56593
+DTDVG	FR	0.82877
+DTDVG	FE	0.8032
+DTDVG	A-velocity	0.6554
+DTDVG	TDE	0.5896
+DTDVG	Sa lat (cm/s)	0.6977
+DTDVG	Aortic diameter	0.92257
+DTSVG (mm)	FR	0.92593
+DTSVG (mm)	FE	0.92187
+DTSVG (mm)	A-velocity	0.528
+DTSVG (mm)	TDE	0.4138
+DTSVG (mm)	Sa lat (cm/s)	0.6549
+DTSVG (mm)	Aortic diameter	0.87313
+DTSVG (mm)	DTDVG	0.96083
+PP (mm)	FR	0.63317
+PP (mm)	FE	0.56243
+PP (mm)	A-velocity	0.7964
+PP (mm)	TDE	0.75493
+PP (mm)	Sa lat (cm/s)	0.52183
+PP (mm)	Aortic diameter	0.8363
+PP (mm)	DTDVG	0.8402
+PP (mm)	DTSVG (mm)	0.74813
+Sep (mm)	FR	0.3888
+Sep (mm)	FE	0.3133
+Sep (mm)	A-velocity	0.69877
+Sep (mm)	TDE	0.7627
+Sep (mm)	Sa lat (cm/s)	0.5571
+Sep (mm)	Aortic diameter	0.6918
+Sep (mm)	DTDVG	0.7701
+Sep (mm)	DTSVG (mm)	0.5844
+Sep (mm)	PP (mm)	0.7326
+mVG (mg)	FR	0.66387
+mVG (mg)	FE	0.6098
+mVG (mg)	A-velocity	0.773
+mVG (mg)	TDE	0.72217
+mVG (mg)	Sa lat (cm/s)	0.6453
+mVG (mg)	Aortic diameter	0.8723
+mVG (mg)	DTDVG	0.93937
+mVG (mg)	DTSVG (mm)	0.8286
+mVG (mg)	PP (mm)	0.9135
+mVG (mg)	Sep (mm)	0.8872
+Chol serique	FR	0.79087
+Chol serique	FE	0.83437
+Chol serique	A-velocity	0.21147
+Chol serique	TDE	0.0419
+Chol serique	Sa lat (cm/s)	0.4262
+Chol serique	Aortic diameter	0.61847
+Chol serique	DTDVG	0.67343
+Chol serique	DTSVG (mm)	0.79507
+Chol serique	PP (mm)	0.3249
+Chol serique	Sep (mm)	0.20763
+Chol serique	mVG (mg)	0.45913
+TG serique	FR	0.76193
+TG serique	FE	0.81737
+TG serique	A-velocity	0.1198
+TG serique	TDE	0.11827
+TG serique	Sa lat (cm/s)	0.41953
+TG serique	Aortic diameter	0.54013
+TG serique	DTDVG	0.62943
+TG serique	DTSVG (mm)	0.76313
+TG serique	PP (mm)	0.23777
+TG serique	Sep (mm)	0.1932
+TG serique	mVG (mg)	0.4111
+TG serique	Chol serique	0.96527
+Creat_Ez serique	FR	0.79817
+Creat_Ez serique	FE	0.78753
+Creat_Ez serique	A-velocity	0.48687
+Creat_Ez serique	TDE	0.47953
+Creat_Ez serique	Sa lat (cm/s)	0.55247
+Creat_Ez serique	Aortic diameter	0.8598
+Creat_Ez serique	DTDVG	0.89037
+Creat_Ez serique	DTSVG (mm)	0.9014
+Creat_Ez serique	PP (mm)	0.71073
+Creat_Ez serique	Sep (mm)	0.57687
+Creat_Ez serique	mVG (mg)	0.7472
+Creat_Ez serique	Chol serique	0.76113
+Creat_Ez serique	TG serique	0.70803
+HDL serique	FR	0.80917
+HDL serique	FE	0.8341
+HDL serique	A-velocity	0.37853
+HDL serique	TDE	0.14547
+HDL serique	Sa lat (cm/s)	0.43703
+HDL serique	Aortic diameter	0.7343
+HDL serique	DTDVG	0.71313
+HDL serique	DTSVG (mm)	0.81223
+HDL serique	PP (mm)	0.5087
+HDL serique	Sep (mm)	0.2482
+HDL serique	mVG (mg)	0.5572
+HDL serique	Chol serique	0.89177
+HDL serique	TG serique	0.81467
+HDL serique	Creat_Ez serique	0.72493
+Adiponectin (microg/mL)	FR	0.2591
+Adiponectin (microg/mL)	FE	0.24447
+Adiponectin (microg/mL)	A-velocity	0.0664
+Adiponectin (microg/mL)	TDE	0.2091
+Adiponectin (microg/mL)	Sa lat (cm/s)	0.25673
+Adiponectin (microg/mL)	Aortic diameter	0.1189
+Adiponectin (microg/mL)	DTDVG	0.11207
+Adiponectin (microg/mL)	DTSVG (mm)	0.19187
+Adiponectin (microg/mL)	PP (mm)	0.12477
+Adiponectin (microg/mL)	Sep (mm)	0.16633
+Adiponectin (microg/mL)	mVG (mg)	0.09873
+Adiponectin (microg/mL)	Chol serique	0.3399
+Adiponectin (microg/mL)	TG serique	0.27797
+Adiponectin (microg/mL)	Creat_Ez serique	0.0154
+Adiponectin (microg/mL)	HDL serique	0.5247
+Insulin	FR	0.57607
+Insulin	FE	0.60373
+Insulin	A-velocity	0.4228
+Insulin	TDE	0.09487
+Insulin	Sa lat (cm/s)	0.4011
+Insulin	Aortic diameter	0.52153
+Insulin	DTDVG	0.551
+Insulin	DTSVG (mm)	0.58963
+Insulin	PP (mm)	0.38807
+Insulin	Sep (mm)	0.29153
+Insulin	mVG (mg)	0.5017
+Insulin	Chol serique	0.63077
+Insulin	TG serique	0.54393
+Insulin	Creat_Ez serique	0.3532
+Insulin	HDL serique	0.78407
+Insulin	Adiponectin (microg/mL)	0.62963
+HOMA-IR	FR	0.46843
+HOMA-IR	FE	0.48483
+HOMA-IR	A-velocity	0.27193
+HOMA-IR	TDE	0.02557
+HOMA-IR	Sa lat (cm/s)	0.37157
+HOMA-IR	Aortic diameter	0.34323
+HOMA-IR	DTDVG	0.40157
+HOMA-IR	DTSVG (mm)	0.44687
+HOMA-IR	PP (mm)	0.25943
+HOMA-IR	Sep (mm)	0.16393
+HOMA-IR	mVG (mg)	0.35987
+HOMA-IR	Chol serique	0.5305
+HOMA-IR	TG serique	0.4359
+HOMA-IR	Creat_Ez serique	0.20207
+HOMA-IR	HDL serique	0.6709
+HOMA-IR	Adiponectin (microg/mL)	0.71067
+HOMA-IR	Insulin	0.94903
+Taille tibia (mm)	FR	0.46253
+Taille tibia (mm)	FE	0.38477
+Taille tibia (mm)	A-velocity	0.74173
+Taille tibia (mm)	TDE	0.8182
+Taille tibia (mm)	Sa lat (cm/s)	0.54743
+Taille tibia (mm)	Aortic diameter	0.80873
+Taille tibia (mm)	DTDVG	0.82153
+Taille tibia (mm)	DTSVG (mm)	0.6647
+Taille tibia (mm)	PP (mm)	0.81563
+Taille tibia (mm)	Sep (mm)	0.89293
+Taille tibia (mm)	mVG (mg)	0.87507
+Taille tibia (mm)	Chol serique	0.24163
+Taille tibia (mm)	TG serique	0.19713
+Taille tibia (mm)	Creat_Ez serique	0.70957
+Taille tibia (mm)	HDL serique	0.2789
+Taille tibia (mm)	Adiponectin (microg/mL)	0.21213
+Taille tibia (mm)	Insulin	0.1632
+Taille tibia (mm)	HOMA-IR	0.0359
+BM (g)	FR	0.814
+BM (g)	FE	0.7889
+BM (g)	A-velocity	0.73763
+BM (g)	TDE	0.56633
+BM (g)	Sa lat (cm/s)	0.6486
+BM (g)	Aortic diameter	0.93883
+BM (g)	DTDVG	0.96833
+BM (g)	DTSVG (mm)	0.93647
+BM (g)	PP (mm)	0.86477
+BM (g)	Sep (mm)	0.70493
+BM (g)	mVG (mg)	0.9236
+BM (g)	Chol serique	0.68037
+BM (g)	TG serique	0.60213
+BM (g)	Creat_Ez serique	0.84203
+BM (g)	HDL serique	0.78803
+BM (g)	Adiponectin (microg/mL)	0.26743
+BM (g)	Insulin	0.68047
+BM (g)	HOMA-IR	0.53657
+BM (g)	Taille tibia (mm)	0.7611
+Na_U (mmol/L)	FR	0.76487
+Na_U (mmol/L)	FE	0.7316
+Na_U (mmol/L)	A-velocity	0.563
+Na_U (mmol/L)	TDE	0.31853
+Na_U (mmol/L)	Sa lat (cm/s)	0.54393
+Na_U (mmol/L)	Aortic diameter	0.7311
+Na_U (mmol/L)	DTDVG	0.79657
+Na_U (mmol/L)	DTSVG (mm)	0.81713
+Na_U (mmol/L)	PP (mm)	0.69903
+Na_U (mmol/L)	Sep (mm)	0.5334
+Na_U (mmol/L)	mVG (mg)	0.72233
+Na_U (mmol/L)	Chol serique	0.7238
+Na_U (mmol/L)	TG serique	0.6631
+Na_U (mmol/L)	Creat_Ez serique	0.75613
+Na_U (mmol/L)	HDL serique	0.79577
+Na_U (mmol/L)	Adiponectin (microg/mL)	0.46673
+Na_U (mmol/L)	Insulin	0.70357
+Na_U (mmol/L)	HOMA-IR	0.62723
+Na_U (mmol/L)	Taille tibia (mm)	0.5245
+Na_U (mmol/L)	BM (g)	0.85223
+K_U (mmol/L)	FR	0.76397
+K_U (mmol/L)	FE	0.78713
+K_U (mmol/L)	A-velocity	0.51827
+K_U (mmol/L)	TDE	0.21787
+K_U (mmol/L)	Sa lat (cm/s)	0.49487
+K_U (mmol/L)	Aortic diameter	0.7347
+K_U (mmol/L)	DTDVG	0.7874
+K_U (mmol/L)	DTSVG (mm)	0.83593
+K_U (mmol/L)	PP (mm)	0.61923
+K_U (mmol/L)	Sep (mm)	0.4422
+K_U (mmol/L)	mVG (mg)	0.69447
+K_U (mmol/L)	Chol serique	0.8035
+K_U (mmol/L)	TG serique	0.74647
+K_U (mmol/L)	Creat_Ez serique	0.71577
+K_U (mmol/L)	HDL serique	0.8962
+K_U (mmol/L)	Adiponectin (microg/mL)	0.4982
+K_U (mmol/L)	Insulin	0.84607
+K_U (mmol/L)	HOMA-IR	0.7363
+K_U (mmol/L)	Taille tibia (mm)	0.39217
+K_U (mmol/L)	BM (g)	0.86427
+K_U (mmol/L)	Na_U (mmol/L)	0.9192
+Cl_U (mmol/L)	FR	0.77397
+Cl_U (mmol/L)	FE	0.77223
+Cl_U (mmol/L)	A-velocity	0.5003
+Cl_U (mmol/L)	TDE	0.3532
+Cl_U (mmol/L)	Sa lat (cm/s)	0.55273
+Cl_U (mmol/L)	Aortic diameter	0.75397
+Cl_U (mmol/L)	DTDVG	0.81517
+Cl_U (mmol/L)	DTSVG (mm)	0.82663
+Cl_U (mmol/L)	PP (mm)	0.70783
+Cl_U (mmol/L)	Sep (mm)	0.53077
+Cl_U (mmol/L)	mVG (mg)	0.73183
+Cl_U (mmol/L)	Chol serique	0.7324
+Cl_U (mmol/L)	TG serique	0.65867
+Cl_U (mmol/L)	Creat_Ez serique	0.78873
+Cl_U (mmol/L)	HDL serique	0.83157
+Cl_U (mmol/L)	Adiponectin (microg/mL)	0.40613
+Cl_U (mmol/L)	Insulin	0.701
+Cl_U (mmol/L)	HOMA-IR	0.6107
+Cl_U (mmol/L)	Taille tibia (mm)	0.49073
+Cl_U (mmol/L)	BM (g)	0.8569
+Cl_U (mmol/L)	Na_U (mmol/L)	0.9329
+Cl_U (mmol/L)	K_U (mmol/L)	0.92373
+Ca_U (mmol/L)	FR	0.3986
+Ca_U (mmol/L)	FE	0.36443
+Ca_U (mmol/L)	A-velocity	0.77073
+Ca_U (mmol/L)	TDE	0.72603
+Ca_U (mmol/L)	Sa lat (cm/s)	0.22197
+Ca_U (mmol/L)	Aortic diameter	0.74157
+Ca_U (mmol/L)	DTDVG	0.72323
+Ca_U (mmol/L)	DTSVG (mm)	0.58167
+Ca_U (mmol/L)	PP (mm)	0.79233
+Ca_U (mmol/L)	Sep (mm)	0.80077
+Ca_U (mmol/L)	mVG (mg)	0.8124
+Ca_U (mmol/L)	Chol serique	0.13973
+Ca_U (mmol/L)	TG serique	0.0996
+Ca_U (mmol/L)	Creat_Ez serique	0.55893
+Ca_U (mmol/L)	HDL serique	0.2584
+Ca_U (mmol/L)	Adiponectin (microg/mL)	0.2318
+Ca_U (mmol/L)	Insulin	0.2016
+Ca_U (mmol/L)	HOMA-IR	0.03033
+Ca_U (mmol/L)	Taille tibia (mm)	0.8698
+Ca_U (mmol/L)	BM (g)	0.6985
+Ca_U (mmol/L)	Na_U (mmol/L)	0.43697
+Ca_U (mmol/L)	K_U (mmol/L)	0.37783
+Ca_U (mmol/L)	Cl_U (mmol/L)	0.4446
+Urine (mL)	FR	0.77123
+Urine (mL)	FE	0.8007
+Urine (mL)	A-velocity	0.3725
+Urine (mL)	TDE	0.07883
+Urine (mL)	Sa lat (cm/s)	0.50567
+Urine (mL)	Aortic diameter	0.6495
+Urine (mL)	DTDVG	0.75543
+Urine (mL)	DTSVG (mm)	0.81217
+Urine (mL)	PP (mm)	0.45123
+Urine (mL)	Sep (mm)	0.39867
+Urine (mL)	mVG (mg)	0.63227
+Urine (mL)	Chol serique	0.89587
+Urine (mL)	TG serique	0.87497
+Urine (mL)	Creat_Ez serique	0.6834
+Urine (mL)	HDL serique	0.83457
+Urine (mL)	Adiponectin (microg/mL)	0.43887
+Urine (mL)	Insulin	0.7585
+Urine (mL)	HOMA-IR	0.67547
+Urine (mL)	Taille tibia (mm)	0.3727
+Urine (mL)	BM (g)	0.78943
+Urine (mL)	Na_U (mmol/L)	0.79317
+Urine (mL)	K_U (mmol/L)	0.87653
+Urine (mL)	Cl_U (mmol/L)	0.78147
+Urine (mL)	Ca_U (mmol/L)	0.31517
+Urine osmolality (mosmoles)	FR	0.69057
+Urine osmolality (mosmoles)	FE	0.71073
+Urine osmolality (mosmoles)	A-velocity	0.56667
+Urine osmolality (mosmoles)	TDE	0.2749
+Urine osmolality (mosmoles)	Sa lat (cm/s)	0.45317
+Urine osmolality (mosmoles)	Aortic diameter	0.7326
+Urine osmolality (mosmoles)	DTDVG	0.78723
+Urine osmolality (mosmoles)	DTSVG (mm)	0.78267
+Urine osmolality (mosmoles)	PP (mm)	0.6839
+Urine osmolality (mosmoles)	Sep (mm)	0.5472
+Urine osmolality (mosmoles)	mVG (mg)	0.74547
+Urine osmolality (mosmoles)	Chol serique	0.7229
+Urine osmolality (mosmoles)	TG serique	0.65043
+Urine osmolality (mosmoles)	Creat_Ez serique	0.7202
+Urine osmolality (mosmoles)	HDL serique	0.79277
+Urine osmolality (mosmoles)	Adiponectin (microg/mL)	0.42833
+Urine osmolality (mosmoles)	Insulin	0.73717
+Urine osmolality (mosmoles)	HOMA-IR	0.65267
+Urine osmolality (mosmoles)	Taille tibia (mm)	0.4732
+Urine osmolality (mosmoles)	BM (g)	0.84197
+Urine osmolality (mosmoles)	Na_U (mmol/L)	0.90517
+Urine osmolality (mosmoles)	K_U (mmol/L)	0.92207
+Urine osmolality (mosmoles)	Cl_U (mmol/L)	0.95323
+Urine osmolality (mosmoles)	Ca_U (mmol/L)	0.47457
+Urine osmolality (mosmoles)	Urine (mL)	0.82957

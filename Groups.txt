@@ -1,0 +1,27 @@
+NodeID	Group
+Adiponectin (microg/mL)	Not defined
+Aortic diameter	cardiac morphology
+A-velocity	Not defined
+BM (g)	morphometric
+Ca_U (mmol/L)	renal
+Chol serique	metabolic
+Cl_U (mmol/L)	renal
+Creat_Ez serique	metabolic
+DTDVG	cardiac morphology
+DTSVG (mm)	cardiac morphology
+FE	cardiac function
+FR	cardiac function
+HDL serique	metabolic
+HOMA-IR	metabolic
+Insulin	metabolic
+K_U (mmol/L)	renal
+mVG (mg)	cardiac morphology
+Na_U (mmol/L)	renal
+PP (mm)	cardiac morphology
+Sa lat (cm/s)	Not defined
+Sep (mm)	cardiac morphology
+Taille tibia (mm)	morphometric
+TDE	cardiac function
+TG serique	metabolic
+Urine (mL)	renal
+Urine osmolality (mosmoles)	metabolic
