@@ -1,17 +1,32 @@
-setwd("D:/R/MirMet//Dendrogram")
 library("tidyr")
 library("dplyr")
 library("ggplot2")
 library("ggdendro")
 library("magrittr")
-
+library("RColorBrewer")
 
 tab <- read.table("PhysioParam00.txt", header = TRUE, sep = "\t")
 tab_comp <- tab %>% select(NodeID1 = NodeID2, NodeID2 = NodeID1, CE)
 tab %<>% bind_rows(tab_comp)
 
+
+
+
 physioa<-as.matrix(spread(tab, NodeID2, CE))
 physioa[is.na(physioa)] <- 1
+
+# heatmap
+gather(as.data.frame(physioa), "N", "CE", 2:ncol(physioa))
+cols <- brewer.pal(7,"YlOrRd")
+h <- ggplot(gather(as.data.frame(physioa), "NodeID2", "CE", 2:ncol(physioa)))+
+  geom_tile(aes(x = NodeID1, y = NodeID2, fill = as.numeric(CE)))+
+  theme_classic(16)+
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))+
+  scale_fill_gradient(expression(R**2), low = cols[1], high = cols[7])+
+  xlab("")+
+  ylab("")
+plot(h)
+
 
 group <- read.table("Groups.txt", header = TRUE, sep="\t")
 physioa2 <- left_join(as.data.frame(physioa), group, by=c("NodeID1" = "NodeID"))
